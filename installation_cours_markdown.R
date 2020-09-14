@@ -20,7 +20,6 @@ install.MikTeX(page_with_download_url = "https://miktex.org/download")
   
   
 writeLines('PATH="${RTOOLS40_HOME}\\usr\\bin;${PATH}"', con = "~/.Renviron")
-# quitter et redémarrer Rstudio
 
 Sys.which("make") ## si cette commande doit ceci "C:\\rtools40\\usr\\bin\\make.exe"
 
@@ -41,6 +40,6 @@ library(tinytex)
 library(rmarkdown)
 library(bookdown)
 
-
+# ajout commentaire
 
 
