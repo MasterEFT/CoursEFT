@@ -4,6 +4,8 @@ library(questionr)
 library(forcats) # pour recodage,de données construction de classe, fusion de variables etc..
 library(nycflights13) # pour diplyr
 
+#HIDE & SEEK
+
 # data(rp2012)
 # data(hdv2003)
 # hdv2003$qualif
