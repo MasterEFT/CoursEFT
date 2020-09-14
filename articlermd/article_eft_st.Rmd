@@ -252,6 +252,11 @@ Des signets peuvent aussi être placés librement dans le texte avec la commande
 
 Dans tous les cas, l'appel à la référence est fait par la commande `\@ref(ref:zzz)`.
 
+
+## Dicussion
+je raconte mon histoire et avec des paragraphes
+
+
 ## Bibliographie
 
 Les références bibliographiques incluses dans le fichier references.bib peuvent être appelées dans le texte, entre parenthèses [@Marcon2014c], ou dans le texte, à la façon de @Marcon2014c.
