@@ -135,6 +135,8 @@ head(cars)
 
 Les séparateurs horizontaux - et verticaux | permettent de dessiner un tableau selon la syntaxe de Markdown, mais ce n'est pas la meilleure méthode.
 
+test ajout répertoire
+
 Les tableaux peuvent aussi être produits par du code R.
 Le contenu du tableau est dans un dataframe.
 La fonction `kable` du package _knitr_ prépare le tableau pour l'affichage et passe le résultat à la fonction `kable_styling` du package _kableExtra_ pour le formatage final.
