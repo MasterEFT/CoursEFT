@@ -255,7 +255,7 @@ Dans tous les cas, l'appel à la référence est fait par la commande `\@ref(ref
 
 ## Dicussion
 je raconte mon histoire et avec des paragraphes
-
+ j'en raconte j'en raconte mais elle ne me crois pas
 
 ## Bibliographie
 
